@@ -1,0 +1,1 @@
+In this events project, I try to explore various DOM manipulation methods in JavaScript. From printing out a simple message on the console once a button is clicked to using the DOM content loaded.
